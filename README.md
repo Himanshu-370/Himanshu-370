@@ -17,16 +17,16 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on Querious-app Project
-- 🌱 I’m currently learning MongoDB, NodeJS ☕
-  <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
+- 🔭 I’m currently working on **Querious-app** Project
+- 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
 
-- 📝 I am learning to contribute to Open Source projects.
-- 👯 I’m looking to collaborate on making projects with ReactJS.
-- 🤔 I’m looking for help with Backend Tech.
-- 💬 Ask me about C++, ReactJS.
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+  <img width="490" height="270" align="left" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
+
+- 📝 I am learning to contribute to **Open Source projects**.
+- 👯 I’m looking to collaborate on making projects with **ReactJS**.
+- 🤔 I’m looking for help with **Backend** Tech.
+- 💬 Ask me about **C++**, **ReactJS**.
+- 🎉 Fun-Fact: I ❤️ StackOverflow
 
 ### 🖥️ My DevSetup
 
