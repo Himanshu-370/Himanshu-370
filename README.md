@@ -49,13 +49,13 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 ### 🚀 Quick Stats
 
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Himanshu-370" alt="Himanshu's Github Stats" 
-                              src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-370" alt="Himanshu's Github Stats"
-                              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-370&layout=compact" alt="Languages"
-     />
+<img width="450"  src="https://github-readme-stats.vercel.app/api?username=Himanshu-370" alt="Himanshu's Github Stats" />
+
+<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-370" alt="Himanshu's Github Stats" />
+
+<img width="450"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-370&layout=compact" alt="Languages" />
 
 </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Himanshu-370)
 
 <details>
