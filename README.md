@@ -53,7 +53,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
 <img width="450" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-370" alt="Himanshu's Github Stats" />
 
-<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-370&layout=compact" alt="Languages" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-370&layout=compact" alt="Languages" />
 
 </p>
 
