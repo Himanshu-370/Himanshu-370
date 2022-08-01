@@ -20,7 +20,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 - 🔭 I’m currently working on **Querious-app** Project
 - 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
 
-  <img width="490" height="270" align="left" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
+  <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
 
 - 📝 I am learning to contribute to **Open Source projects**.
 - 👯 I’m looking to collaborate on making projects with **ReactJS**.
