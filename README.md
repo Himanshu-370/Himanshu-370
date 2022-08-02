@@ -11,7 +11,7 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm an **Undergrad Student🎓 [@SNU Noida](https://www.vit.ac.in)** pursuing ECE. I’m a **Front-End Developer 💻 😃**. I have an interest in UI effects and **creating intuitive**, **dynamic user experiences**.
+I'm an **Undergrad Student🎓 [@SNU Noida](https://snu.edu.in/home)** pursuing ECE. I’m a **Front-End Developer 💻 😃**. I have an interest in UI effects and **creating intuitive**, **dynamic user experiences**.
 Well-organized person 👨‍💼, problem solver 💡, a college-going student 🏫 with high attention to detail. Fan of Movies 🍿, outdoor activities 👟, and all kinds of sports ⚽🏏🏓🏊‍♂️.
 <br/><br/>
 
