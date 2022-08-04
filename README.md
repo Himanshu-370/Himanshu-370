@@ -17,7 +17,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on **Querious-app** Project
+- 🔭 I’m currently working on **SSOC'22** Contributor
 - 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
 
   <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
