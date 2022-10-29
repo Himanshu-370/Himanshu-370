@@ -22,7 +22,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
   <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
 
-- 📝 I am learning to contribute to **Open Source projects**.
+- 📝 I contribute to **Open Source projects**.
 - 👯 I’m open to collaborate on making projects with **ReactJS**.
 - 🤔 I’m open for any idea discussions.
 - 💬 Ask me about **C++**, **ReactJS**.
