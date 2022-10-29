@@ -17,16 +17,16 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently a **SSOC'22** Contributor
-- 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
+- 🔭 I currently work as a software developer intern @**cvowl**
+- 🌱 I’m currently learning **MongoDB**, **NodeJS**, **php** ☕
 
   <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
 
 - 📝 I am learning to contribute to **Open Source projects**.
-- 👯 I’m looking to collaborate on making projects with **ReactJS**.
-- 🤔 I’m looking for help with **Backend** Tech.
+- 👯 I’m open to collaborate on making projects with **ReactJS**.
+- 🤔 I’m open for any idea discussions.
 - 💬 Ask me about **C++**, **ReactJS**.
-- 🎉 Fun-Fact: I ❤️ StackOverflow
+- 🎉 Fun-Fact: I ❤️ StackOverflow.
 
 ### 🖥️ My DevSetup
 
@@ -63,7 +63,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
-<a href="https://github.com/Himanshu-370/Querious-app">
+<a href="https://github.com/Himanshu-370/learnwithmeinminutes">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Himanshu-370&repo=Querious-app&show_owner=true&theme=react" />
 </a>&ensp;
 </p>
