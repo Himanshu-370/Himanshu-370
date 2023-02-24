@@ -18,7 +18,7 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I currently work as a software developer intern @**cvowl**
-- 🌱 I’m currently learning **MongoDB**, **NodeJS**, **php** ☕
+- 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
 
   <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
 
