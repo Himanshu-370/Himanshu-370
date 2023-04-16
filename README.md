@@ -17,8 +17,8 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I currently work as a software developer intern @**cvowl**
-- 🌱 I’m currently learning **MongoDB**, **NodeJS** ☕
+- 🔭 I currently work as a software developer intern @**CvOwl**
+- 🌱 I’m currently learning **MongoDB**, **NodeJS**☕
 
   <img width="490" height="270" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" align=center>
 
@@ -58,13 +58,3 @@ Well-organized person 👨‍💼, problem solver 💡, a college-going student 
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Himanshu-370)
-
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Himanshu-370/learnwithmeinminutes">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Himanshu-370&repo=Querious-app&show_owner=true&theme=react" />
-</a>&ensp;
-</p>
-</details>
