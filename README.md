@@ -10,11 +10,14 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I build scalable software systems with a strong focus on backend engineering, reliability, and performance. My work centers on designing APIs, improving system visibility through dashboards, and automating workflows to eliminate manual effort. I care deeply about clean architecture, testable code, and maintainable systems, and I take pride in shipping features end-to-end in production environments.
+I build things for a living — and for fun.</br>
 
-My core strength is backend development, with full-stack experience when it adds real value to the product. I enjoy working on distributed systems and increasingly explore applied AI for automation, particularly where it saves engineering time and improves developer productivity. I learn quickly in unfamiliar domains and adapt well to fast-moving startup environments that demand ownership and clear impact.
+By day, I work with Java (Spring) and Python, building backend systems and experimenting on the AI side. By night, I’m usually thinking about some startup idea I probably don’t have time for.</br>
 
-I enjoy collaborating with teams and I’m driven by building useful systems that solve real problems at scale.
+I enjoy hackathons, quick prototyping, and turning random ideas into working demos. I’m more interested in creating and shipping than just talking about it.</br>
+
+Outside code: football, Netflix, and overanalyzing product ideas that may or may not exist yet.
 <br/><br/>
+
 
 
